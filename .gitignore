@@ -24,3 +24,7 @@ elixir_first_project-*.tar
 
 # Temporary files, for example, from tests.
 /tmp/
+
+# IntelliJ IDEA
+.idea
+*.iml
